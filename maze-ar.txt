@@ -1,0 +1,4 @@
+Maze game - Augmented reality version
+
+-> A maze with a small blue sphere is projected when the image target is placed in front of the camera.
+-> The sphere acts under gravity force,If the ball falls out by accident it shall come back to its initial point.

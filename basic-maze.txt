@@ -1,0 +1,4 @@
+This is a basic maze game:
+
+->The movements are simple(w.r.t the arrow keys)
+->The out door opens up only when atleast 10(out of 15 gems) are collected.

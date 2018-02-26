@@ -1,0 +1,20 @@
+Basic 2 player game 
+
+-> There are three cameras,The one on top left is the view of player one,bottom left is the view of player 2 and right 
+   is the view of main camera which moves w.r.t the ball
+-> The player with blue marking on top is to hit into the blue goal and similarly in case of red marked player.
+-> The controls of the player are as of now directly from the keyboard.
+-> For player1 :
+	Up arrow key     :  run forward   (keep pressing the key)
+	Down arrow key   :  run backwards (keep pressing the key)
+	Right arrow key  :  turn right    (press key once to turn)
+	Left arrow key   :  turn left     (press key once to turn)
+-> For player2 :
+	"W"              :  run forward   (keep pressing the key)
+	"S"              :  run backwards (keep pressing the key)
+	"D"              :  turn right    (press key once to turn)
+	"A"              :  turn left     (press key once to turn)
+-> After a goal the ball automatically comes to the initial position.
+-> There is a time limit of 3 minutes for the game based on which A win or Draw is declared.
+
+-------------------------------x----------------------------------------------------------x---------------------------------
